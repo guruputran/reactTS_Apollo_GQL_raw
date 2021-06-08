@@ -19,15 +19,19 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@apollo/client": "^3.3.19",
     "@testing-library/react": "^11.2.7",
     "bootstrap": "^5.0.1",
+    "graphql": "^15.5.0",
     "mobx": "^6.3.2",
     "mobx-react": "^7.2.0",
     "mobx-react-devtools": "^6.1.1",
     "mobx-react-lite": "^3.2.0",
     "react": "^17.0.1",
+    "react-bootstrap": "^1.6.1",
     "react-dom": "^17.0.1",
     "react-test-renderer": "^17.0.2",
+    "react-world-flags": "^1.4.0",
     "styled-components": "^5.3.0"
   },
   "devDependencies": {
@@ -56,7 +60,6 @@
     "eslint-plugin-react": "^7.22.0",
     "eslint-plugin-react-hooks": "^4.2.0",
     "html-webpack-plugin": "^5.1.0",
-    "husky": "4",
     "jest": "^27.0.4",
     "lint-staged": "^10.5.4",
     "prettier": "^2.2.1",
@@ -65,7 +68,7 @@
     "ts-jest": "^27.0.2",
     "typescript": "^4.1.5",
     "webpack": "^5.21.2",
-    "webpack-cli": "^4.5.0",
+    "webpack-cli": "^4.7.0",
     "webpack-dev-server": "^3.11.2",
     "webpack-merge": "^5.7.3"
   },
